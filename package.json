@@ -1,0 +1,27 @@
+{
+  "name": "pixiv-novel-editor",
+  "version": "1.0.0",
+  "description": "WYSIWYG Web Text Editor for pixiv Novels, powered by Draft.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hakatashi/pixiv-novel-editor.git"
+  },
+  "keywords": [
+    "wysiwyg",
+    "draft.js",
+    "editor",
+    "pixiv",
+    "novel",
+    "text"
+  ],
+  "author": "Koki Takahashi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hakatashi/pixiv-novel-editor/issues"
+  },
+  "homepage": "https://github.com/hakatashi/pixiv-novel-editor#readme"
+}
