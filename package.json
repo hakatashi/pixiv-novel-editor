@@ -23,5 +23,10 @@
   "bugs": {
     "url": "https://github.com/hakatashi/pixiv-novel-editor/issues"
   },
-  "homepage": "https://github.com/hakatashi/pixiv-novel-editor#readme"
+  "homepage": "https://github.com/hakatashi/pixiv-novel-editor#readme",
+  "dependencies": {
+    "draft-js": "^0.1.0",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7"
+  }
 }
