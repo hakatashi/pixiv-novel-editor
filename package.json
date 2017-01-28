@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/hakatashi/pixiv-novel-editor#readme",
   "dependencies": {
-    "draft-js": "^0.9.1",
+    "draft-js": "^0.10.0",
     "react": "^15.4.2",
     "react-dom": "^15.4.2"
   }
